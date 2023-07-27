@@ -1,2 +1,0 @@
-# jsapppp
-my first app
